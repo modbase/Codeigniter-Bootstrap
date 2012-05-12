@@ -1,10 +1,8 @@
-Codeigniter-Bootstrap
-=====================
+# Codeigniter-Bootstrap
 
 The awesome Codeigniter PHP framework combined with Twitter Bootstrap. Build a superb and professional website in minutes!
 
-About
------
+## About
 
 The Codeigniter Bootstrap contains the Codeigniter PHP framework and is combined with the Twitter Bootstrap. It allows developers to create new websites in minutes. This package contains:
 
@@ -18,8 +16,7 @@ The Codeigniter Bootstrap contains the Codeigniter PHP framework and is combined
 
 This is the first release. More updates are coming soon! You are free to contribute to this project (see below).
 
-Screenshots 
------------
+## Screenshots 
 
 ![Admin dashboard](https://github.com/modbase/Codeigniter-Bootstrap/raw/master/screenshots/admin_home.png)
 
@@ -27,8 +24,7 @@ Screenshots
 
 ![Homepage](https://github.com/modbase/Codeigniter-Bootstrap/raw/master/screenshots/home.png)
 
-Important files
----------------
+## Important files
 
 These are files that are either new to Codeigniter or to Bootstrap.
 
@@ -42,7 +38,6 @@ These are files that are either new to Codeigniter or to Bootstrap.
 * assets/css/site.css
 * assets/js/application.js
 
-Contribute
-----------
+## Contribute
 
 You are free to contribute to the Codeingiter Bootstrap. Just fork this repo and send a pull request with your changes.
